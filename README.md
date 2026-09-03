@@ -1,2 +1,1 @@
-# HTMLCalculator
-A simple HTML calculator.
+# Want to know deeper about how it works?
